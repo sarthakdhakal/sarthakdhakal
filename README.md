@@ -12,7 +12,7 @@
 <p align="left">
 <a href="https://fb.com/dhakal.sarthak" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="dhakal.sarthak" height="30" width="40" /></a>
 </p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarthakdhakal&show_icons=true&locale=en&layout=compact" alt="sarthakdhakal" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarthakdhakal&show_icons=true&locale=en" alt="sarthakdhakal" /></p>
